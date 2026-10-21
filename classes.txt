@@ -1,0 +1,4 @@
+0 İnsan
+1 Araba
+2 Helikopter
+  
