@@ -26,6 +26,7 @@ Arayüzden eğitmek istediğiniz Model Versiyonunu (örn: yolo26), Model Boyutun
 Hiperparametreleri (Epochs, Görüntü Boyutu, Batch) ihtiyacınıza göre ayarlayın.
 
 Veriseti bölümünden ham verilerinizin bulunduğu klasörü seçin.
+Seçtiğiniz dosya içerisinde classes.txt dosyanız da bulunmalıdır. Örnek classes.txt dosyasını aynı repository içerisinde bulabilirsiniz.
 
 "Veriseti Hazırla ve Eğitimi Başlat" butonuna basarak işlemi başlatın.
 
